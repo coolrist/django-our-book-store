@@ -1,0 +1,7 @@
+DateTime==5.5
+Django==5.1.4
+django-cors-headers==4.6.0
+django-filter==24.3
+djangorestframework==3.15.2
+Faker==33.1.0
+python-decouple==3.8

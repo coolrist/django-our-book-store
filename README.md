@@ -28,3 +28,5 @@ Veuillez compléter cette liste si vous avez contribué :
 7. Likeur off
 8. Coolrist
 9. Rachad Alabi ADEKAMBI
+10. Clement AMLAGAN
+

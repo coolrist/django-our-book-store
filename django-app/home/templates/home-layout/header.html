@@ -1,0 +1,19 @@
+<!-- Header -->
+{% if 'index' in request.resolver_match.url_name %}
+  <header id="head">
+    <div class="container">
+      <div class="row">
+        <h1 class="lead">AWESOME, CUSTOMIZABLE, FREE</h1>
+        <p class="tagline">
+          PROGRESSUS: free business bootstrap template by <a href="http://www.gettemplate.com/?utm_source=progressus&amp;utm_medium=template&amp;utm_campaign=progressus">GetTemplate</a>
+        </p>
+        <p>
+          <button class="btn btn-default btn-lg">MORE INFO</button> <button class="btn btn-action btn-lg">DOWNLOAD NOW</button>
+        </p>
+      </div>
+    </div>
+  </header>
+{% else %}
+  <header id="head" class="secondary"></header>
+{% endif %}
+<!-- /Header -->

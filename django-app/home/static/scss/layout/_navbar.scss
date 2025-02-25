@@ -1,0 +1,8 @@
+/* Autohide navbar */
+.slideUp {
+    top: -100px;
+}
+
+.headroom {
+    transition: all 0.4s ease-out;
+}
